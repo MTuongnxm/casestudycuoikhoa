@@ -1,0 +1,16 @@
+
+canvas {
+    border: 5px solid rgb(212, 13, 13);
+    }
+
+body {
+    height: 100vh;
+    background: linear-gradient(
+        0deg,
+        rgb(79, 229, 231) 0%,
+        rgb(253,187,45,1) 100%
+    );
+    text-align: center;
+    overflow: hidden;
+}
+
